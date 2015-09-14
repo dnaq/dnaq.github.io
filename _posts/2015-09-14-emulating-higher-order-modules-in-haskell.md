@@ -286,4 +286,4 @@ ways to solve this problem.
 - Is there a better way to solve this problem?
 - Should I have gone with the type class approach instead?
 
-Please join the [reddit](https://haskell.reddit.com) discussion for comments.
+Please join the [reddit discussion](https://www.reddit.com/r/haskell/comments/3kwvlk/emulating_higher_order_modules_in_haskell/) for comments.
